@@ -15,12 +15,12 @@ window.SITE = {
   },
 
   contact: {
-    phones: [
+       phones: [
+      { display: "+91 8921694692", tel: "+918921694692" },
       { display: "+91 8075797929", tel: "+918075797929" },
-      { display: "+91 9745613193", tel: "+919745613193" },
     ],
     // Number used for WhatsApp enquiries (digits only, with country code)
-    whatsapp: "918075797929",
+    whatsapp: "918921694692",
     email: "vidyarajacademy@gmail.com",
     location: "Melangot / Kanhangad, Kerala, India",
     locationShort: "Melangot, Kanhangad",
