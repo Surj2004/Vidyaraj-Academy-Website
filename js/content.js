@@ -26,8 +26,8 @@ window.SITE = {
     locationShort: "Melangot, Kanhangad",
     // Replace with the exact Google Maps embed URL of the centre when available
     mapEmbed:
-      "https://www.google.com/maps?q=Melangot,+Kanhangad,+Kerala,+India&output=embed",
-    mapLink: "https://www.google.com/maps/search/?api=1&query=Melangot%2C+Kanhangad%2C+Kerala",
+      "https://www.google.com/maps?q=12.3249064,75.0930097&z=18&output=embed",
+    "https://www.google.com/maps/dir/?api=1&destination=12.3249064,75.0930097",
   },
 
   // Social links — replace "#" with real profile URLs (leave "#" to keep as placeholder)
