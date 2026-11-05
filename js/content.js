@@ -26,8 +26,8 @@ window.SITE = {
     locationShort: "Melangot, Kanhangad",
     // Replace with the exact Google Maps embed URL of the centre when available
     mapEmbed:
-      "https://www.google.com/maps?q=12.3249064,75.0930097&z=18&output=embed",
-        mapLink: "https://www.google.com/maps/dir/?api=1&destination=12.3249064,75.0930097",
+    "https://www.google.com/maps?q=Vidyaraj+Academy,+Minma+Building,+Melankot+Junction,+Puthiyavalapu,+Kanhangad,+Kerala+671531&output=embed",
+  mapLink: "https://www.google.com/maps/dir/?api=1&destination=Vidyaraj+Academy,+Minma+Building,+Melankot+Junction,+Puthiyavalapu,+Kanhangad,+Kerala+671531",
   },
 
   // Social links — replace "#" with real profile URLs (leave "#" to keep as placeholder)
