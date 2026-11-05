@@ -27,7 +27,7 @@ window.SITE = {
     // Replace with the exact Google Maps embed URL of the centre when available
     mapEmbed:
       "https://www.google.com/maps?q=12.3249064,75.0930097&z=18&output=embed",
-    "https://www.google.com/maps/dir/?api=1&destination=12.3249064,75.0930097",
+        mapLink: "https://www.google.com/maps/dir/?api=1&destination=12.3249064,75.0930097",
   },
 
   // Social links — replace "#" with real profile URLs (leave "#" to keep as placeholder)
